@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "eventemitter3": "^0.1.5",
-    "lodash-node": "^3.0.1",
+    "lodash-node": "3.8.x",
     "object-path": "^0.6.0"
   },
   "jshintConfig": {
